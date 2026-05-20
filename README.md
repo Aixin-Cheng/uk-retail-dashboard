@@ -93,7 +93,7 @@ streamlit run app.py
 ```
 
 ### 7. Open in browser
-http://localhost:8501
+[http://localhost:8501](https://uk-retail-dashboard-exvvvdkytozapkp4neda8y.streamlit.app)
 
 ---
 
