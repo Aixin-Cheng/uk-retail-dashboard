@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# Dataset (too large for GitHub)
+online_retail_II.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db"
